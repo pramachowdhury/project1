@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.navbar {
+  display: flex;
+  font-size: 40px;
+  gap: 40px;
+  text-align: center;
+  background-color: blueviolet;
+  padding: 10px;
+  color: aqua;
+}
